@@ -1,0 +1,30 @@
+.my {
+background-color: Blue;
+color:white;
+font-weight:bold;
+font-size:130%
+}
+.tableheader {
+background-color: CornFlowerBlue;
+color:white;
+font-weight:bold;
+font-size:130%
+}
+.tablerow {
+background-color: #A7D6F1;
+color:white;
+font-size:130%
+}
+.message {
+color: #FF0000;
+font-weight: bold;
+font-size:130%
+text-align: center;
+width: 100%;
+}
+.mycol {
+background-color: pink;
+color:white;
+font-size:130%
+}
+

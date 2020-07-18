@@ -1,0 +1,22 @@
+body{
+	background-image: url("bluebg.jpg");
+}
+.tableheader {
+background-color: #95BEE6;
+color:white;
+font-weight:bold;
+font-size:130%
+}
+.tablerow {
+background-color: #A7D6F1;
+color:white;
+font-size:130%
+}
+.message {
+color: #FF0000;
+font-weight: bold;
+font-size:130%
+text-align: center;
+width: 100%;
+}
+
